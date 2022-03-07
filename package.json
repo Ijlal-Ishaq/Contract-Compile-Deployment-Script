@@ -17,10 +17,10 @@
   "author": "Daniel Lara <daniel.lara.diezma@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fs-extra": "7.0.1",
-    "solc": "0.5.3",
-    "truffle-hdwallet-provider": "1.0.2",
-    "web3": "1.0.0-beta.35"
+    "fs-extra": "10.0.1",
+    "solc": "0.8.12",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "web3": "^1.6.1"
   },
   "bugs": {
     "url": "https://github.com/daniellara/compile-deploy-SC/issues"
